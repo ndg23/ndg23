@@ -1,7 +1,6 @@
-### Hi am @ndg23 👋
+### Hi am @marvin 👋
 
-
-**marvin ndg** is a ✨ _software developper_ ✨ 
+I'm a ✨ __software developper_ ✨  from Senegal Republic 
 
 This is my presentation 
 
@@ -12,8 +11,8 @@ This is my presentation
 - 💬 Ask me about ...
 - 📫 How to reach me: tw
 -   twitter:@marvin ndong
-    facebook : @Marvin ndg
-- 😄 Pronouns: ndig
-- ⚡ Fun fact: Voyage,Youtube,Helps
+    facebook : @ndg marvin
+- 😄 Pronouns: n di ji
+- ⚡ Fun fact: Travel,Youtube,Helps
 - _JS enthousiast_
-
+not forget to my youtube's channel @poupcode   __PouponCode__
