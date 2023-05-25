@@ -6,7 +6,7 @@ This is my presentation
 
 - 🔭 I’m currently working on the many personal project 
 - 🌱 I’m currently learning on Software Computer
-- 👯 I’m looking to collaborate on some project like @DIGITAL_SENEGAL.
+- 👯 I’m looking to collaborate on some project like @DIGITAL_SENEGAL & PAYNET .
 - 🤔 I’m looking for help with some on Javascript,TypeScript,Java,php, and others...
 - 💬 Ask me about ...
 - 📫 How to reach me: tw
