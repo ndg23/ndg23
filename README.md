@@ -1,18 +1,24 @@
-### Hi am @marvin 👋
+# Hi, I'm @realanto 👋
 
-I'm a ✨ __software developper_ ✨  from Senegal Republic 
+✨ Software Developer | Web Artist | AI Enthusiast ✨ from Senegal 🇸🇳
 
-This is my presentation 
+## About Me
+- 🚀 Passionate about building intelligent systems for humanity
+- 🎨 Blending technology and creativity to craft innovative web solutions
+- 🌍 Committed to contributing to Senegal's digital transformation
 
-- 🔭 I’m currently working on the many personal project 
-- 🌱 I’m currently learning on Software Computer
-- 👯 I’m looking to collaborate on some project like @DIGITAL_SENEGAL & PAYNET .
-- 🤔 I’m looking for help with some on Javascript,TypeScript,Java,php, and others...
-- 💬 Ask me about ...
-- 📫 How to reach me: tw
--   twitter:@marvin ndong
-    facebook : @ndg marvin
-- 😄 Pronouns: n di ji
-- ⚡ Fun fact: Travel,Youtube,Helps
-- _JS enthousiast_
-not forget to my youtube's channel @poupcode   __PouponCode__
+## What I'm Up To
+- 🔭 Working on multiple personal projects to expand my portfolio
+- 🌱 Continuously learning and exploring new frontiers in Software Engineering
+- 👯 Collaborating on impactful projects like @DIGITAL_SENEGAL & PAYNET
+- 🤝 Open to partnerships on JavaScript, TypeScript, Java, PHP, and more
+- 📚 Sharing knowledge and tutorials on my YouTube channel [@poupcode](https://www.youtube.com/poupcode)
+
+## Tech Stack
+```javascript
+const marvin = {
+  code: ["JavaScript", "TypeScript", "Java", "PHP"],
+  tools: ["React", "Node.js", "Express", "MongoDB", "Docker","Postgresql"],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  challenge: "Crafting elegant solutions to complex problems"
+}
